@@ -15,7 +15,6 @@ namespace ConsoleApplication1
             /*array de duas dimensões*/
             string[,] aluno = new string[3, 3];
 
-
             // Atribuir 
                 /*coluna 0 nome
                  * coluna 1 sexo
@@ -51,15 +50,6 @@ namespace ConsoleApplication1
 
             
                 Console.Read();
-
-
-
-
-
-
-
         }
-
-
     }
 }
