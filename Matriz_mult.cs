@@ -38,7 +38,6 @@ namespace ConsoleApplication1
             for (int linha = 0; linha < 3; linha++)
             {
 
-
                 for(int coluna = 0; coluna < 3; coluna++){
                 Console.Write(aluno[linha, coluna]+ "");
 
@@ -47,8 +46,7 @@ namespace ConsoleApplication1
                 Console.WriteLine("----");
 
             }
-
-            
+   
                 Console.Read();
         }
     }
